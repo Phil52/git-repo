@@ -1,0 +1,8 @@
+D:\Project\GeekBrains\git-repo\CsharpProj\CsharpProj\bin\Debug\CsharpProj.exe.config
+D:\Project\GeekBrains\git-repo\CsharpProj\CsharpProj\bin\Debug\CsharpProj.exe
+D:\Project\GeekBrains\git-repo\CsharpProj\CsharpProj\bin\Debug\CsharpProj.pdb
+D:\Project\GeekBrains\git-repo\CsharpProj\CsharpProj\obj\Debug\CsharpProj.csprojResolveAssemblyReference.cache
+D:\Project\GeekBrains\git-repo\CsharpProj\CsharpProj\obj\Debug\CsharpProj.Properties.Resources.resources
+D:\Project\GeekBrains\git-repo\CsharpProj\CsharpProj\obj\Debug\CsharpProj.csproj.GenerateResource.Cache
+D:\Project\GeekBrains\git-repo\CsharpProj\CsharpProj\obj\Debug\CsharpProj.exe
+D:\Project\GeekBrains\git-repo\CsharpProj\CsharpProj\obj\Debug\CsharpProj.pdb
