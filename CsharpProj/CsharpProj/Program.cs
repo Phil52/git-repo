@@ -11,7 +11,7 @@ namespace CsharpProj
     {
         static void Main(String[] args)
         {
-            Console.WriteLine("Hello world");
+            Console.WriteLine("Hello world;");
         }
     }
 }
